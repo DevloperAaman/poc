@@ -95,7 +95,7 @@ color: rgb(255, 221, 3);
    text-align: center;
   }
 
-  footer{
+  .bg-dark {
    height: 369px;
 /* UI Properties */
 background: #000000 0% 0% no-repeat padding-box;
